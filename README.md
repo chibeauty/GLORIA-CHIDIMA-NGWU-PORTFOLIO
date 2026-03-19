@@ -39,7 +39,7 @@ Deployment
 
 The site is already deployed (GitHub Pages):
 
-- https://career-guidance-assistance.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+-  https://chibeauty.github.io/GLORIA-CHIDIMA-NGWU-PORTFOLIO/
 
 Notes & recommendations
 
